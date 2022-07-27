@@ -1,0 +1,34 @@
+body {
+  background-color: pink;
+}
+
+
+/*
+----------My Game Grid---------
+*/
+
+
+/* #buttonWon, #buttonToo , #buttonTree , #buttonFor , #buttonFive , #buttonSix , #buttonSeven , #buttonAte , #buttonNine { */
+#button1, #button2, #button3, #button4, #button5, #button6, #button7, #button8, #button9 {
+  width:  90px;
+  length: 90px;
+  height: 90px;
+  border-radius: 90px;
+  margin: inherit;
+  cursor: pointer;
+  font-style: italic;
+  color: blue;
+  text-align: center;
+
+}
+
+header {
+  text-align: center;
+}
+#game {
+  text-align: center;
+
+}
+h2 {
+  font-style: italic;
+}
